@@ -12,41 +12,19 @@ class Team extends Component {
                 Our Amazing Team
               </h2>
               <h3 className="section-subheading text-muted">
-                Lorem ipsum dolor sit amet consectetur.
+                Our team consists of individuals that represent the diversity of
+                the culture we live in.
               </h3>
             </div>
           </div>
-          <div className="row">
-            <div className="col-md-6">
-              <div className="team-member">
-                <img
-                  className="mx-auto rounded-circle"
-                  src="img/team/1.jpg"
-                  alt=""
-                />
-                <h4>Keisha Richardson</h4>
-                <p className="text-muted">Owner Operator</p>
-              </div>
-            </div>
 
-            <div className="col-md-6">
-              <div className="team-member">
-                <img
-                  className="mx-auto rounded-circle"
-                  src="img/team/3.jpg"
-                  alt=""
-                />
-                <h4>Diana Pertersen</h4>
-                <p className="text-muted">Facilities Lead</p>
-              </div>
-            </div>
-          </div>
           <div className="row">
             <div className="col-lg-8 mx-auto text-center">
               <p className="large text-muted">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut
-                eaque, laboriosam veritatis, quos non quis ad perspiciatis,
-                totam corporis ea, alias ut unde.
+                The number 1 goal of our team is the provide 5 star service and
+                exceed customer expectations. Weather we are cleaning one room
+                or one building we maintian the same high standards and
+                professionalism that is to be expected when you book with us.
               </p>
             </div>
           </div>

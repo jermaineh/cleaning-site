@@ -11,11 +11,13 @@ class Main extends Component {
               “A clean environment elevates a clear mind.”- QC
             </div>
             <div className="intro-heading text-uppercase">
-              It's Nice To Meet You
+              Ready to serve you
             </div>
             <a
-              className="btn btn-primary btn-xl text-uppercase js-scroll-trigger"
-              href="#services"
+              className="btn btn-primary btn-xl text-uppercase slide"
+              href="https://10to8.com/book/wtmljfpykktmlbnigz/"
+              id="TTE-201128c4-c229-487d-ae9b-49080b970763"
+              target="_blank"
             >
               Book Now
             </a>

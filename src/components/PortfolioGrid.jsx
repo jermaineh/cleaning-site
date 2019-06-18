@@ -10,7 +10,10 @@ class PortfolioGrid extends Component {
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">portfolio</h2>
               <h3 className="section-subheading text-muted">
-                We take pride in our work and it shows.
+                Being green and clean is not just an aspiration but an action.
+                <br />
+                <br />
+                --Christine Pelosi--
               </h3>
             </div>
           </div>

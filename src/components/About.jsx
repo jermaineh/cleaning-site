@@ -10,7 +10,11 @@ class About extends Component {
             <div className="col-lg-12 text-center">
               <h2 className="section-heading text-uppercase">Testimonials</h2>
               <h3 className="section-subheading text-muted">
-                Lorem ipsum dolor sit amet consectetur.
+                When your environment is clean you feel happy, motivated and
+                healthy.
+                <br />
+                <br />
+                -- Lailah Akita--
               </h3>
             </div>
           </div>

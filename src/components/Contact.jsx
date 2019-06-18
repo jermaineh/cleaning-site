@@ -9,7 +9,7 @@ export default function Contact() {
           <div className="col-lg-12 text-center">
             <h2 className="section-heading text-uppercase">Contact Us</h2>
             <h3 className="section-subheading text-muted">
-              Lorem ipsum dolor sit amet consectetur.
+              We will reply within 24 hours guaranteed
             </h3>
           </div>
         </div>
