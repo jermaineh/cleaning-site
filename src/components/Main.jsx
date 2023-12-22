@@ -18,6 +18,7 @@ class Main extends Component {
               href="https://10to8.com/book/wtmljfpykktmlbnigz/"
               id="TTE-201128c4-c229-487d-ae9b-49080b970763"
               target="_blank"
+              rel="noopener noreferrer"
             >
               Book Now
             </a>
