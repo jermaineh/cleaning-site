@@ -37,10 +37,10 @@ export default function Footer() {
           <div className="col-md-4">
             <ul className="list-inline quicklinks">
               <li className="list-inline-item">
-                <a href="#">Privacy Policy</a>
+                <button>Privacy Policy</button>
               </li>
               <li className="list-inline-item">
-                <a href="#">Terms of Use</a>
+                <button>Terms of Use</button>
               </li>
             </ul>
           </div>
