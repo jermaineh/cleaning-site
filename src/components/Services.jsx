@@ -25,6 +25,7 @@ class Services extends Component {
                 href="https://10to8.com/book/wtmljfpykktmlbnigz/"
                 id="TTE-201128c4-c229-487d-ae9b-49080b970763"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <span className="fa-stack fa-4x">
                   <i className="fas fa-circle fa-stack-2x text-primary" />
@@ -39,6 +40,7 @@ class Services extends Component {
                 href="https://10to8.com/book/wtmljfpykktmlbnigz/"
                 id="TTE-201128c4-c229-487d-ae9b-49080b970763"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <span className="fa-stack fa-4x">
                   <i className="fas fa-circle fa-stack-2x text-primary" />
@@ -53,6 +55,7 @@ class Services extends Component {
                 href="https://10to8.com/book/wtmljfpykktmlbnigz/"
                 id="TTE-201128c4-c229-487d-ae9b-49080b970763"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <span className="fa-stack fa-4x">
                   <i className="fas fa-circle fa-stack-2x text-primary" />
@@ -70,6 +73,7 @@ class Services extends Component {
                 href="https://10to8.com/book/wtmljfpykktmlbnigz/"
                 id="TTE-201128c4-c229-487d-ae9b-49080b970763"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <span className="fa-stack fa-4x">
                   <i className="fas fa-circle fa-stack-2x text-primary" />
@@ -84,6 +88,7 @@ class Services extends Component {
                 href="https://10to8.com/book/wtmljfpykktmlbnigz/"
                 id="TTE-201128c4-c229-487d-ae9b-49080b970763"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <span className="fa-stack fa-4x">
                   <i className="fas fa-circle fa-stack-2x text-primary" />
@@ -98,6 +103,7 @@ class Services extends Component {
                 href="https://10to8.com/book/wtmljfpykktmlbnigz/"
                 id="TTE-201128c4-c229-487d-ae9b-49080b970763"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 {" "}
                 <span className="fa-stack fa-4x">
